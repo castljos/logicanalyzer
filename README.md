@@ -1,5 +1,10 @@
 # LogicAnalyzer
 
+## I'm back!
+
+Hey, I know the project has been under silence for a long time, but it is not abandoned, I've moved from house and has been a true nightmare.
+Finally the moving is complete and I will retake the project very soon, in a couple of weeks, so expect big changes in the near future!
+
 ## About the project
 
 This README is organized as a log of the evolution of the project and for now it will stay like this.
